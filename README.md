@@ -1,36 +1,13 @@
-# Next.js with Bun runtime
+# Deliverer 
+### 간편 스마트 택배 서비스 딜리버러
+딜리버러는 대한민국 택배 문화를 혁신할 꿈을 가진 웹앱 소프트웨어 입니다.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with Bun.
+딜리버러는 node, deno가 아닌 bun 런타임을 사용하고 있습니다.
+이유는 여러 개발 편의성을 제공해서 향상된 DX를 느꼈고
+SSR에서 더 빠른 HTTP 처리 속도를 보여주며,
+더 많은 쿼리를 더 빠른 시간에 처리할 수 있기 때문입니다.
 
-## Getting Started
+이외에도 bun이 가진 장점이 궁금하다면 여기를 참고하세요.
 
-### Cloning the repo
+또한 CDD가 가진 장점을 온전히 활용하기 위해 storybook을 이용했습니다.
 
-```sh
-bun create next ./app
-```
-
-First, run the development server:
-
-```bash
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
