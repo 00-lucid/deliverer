@@ -2,7 +2,7 @@
   /* color  */
   --primary-color: #3f7ee8;
   --secondary-color: #ff9800;
-  --background-google: #484849;
+  --background-dark: #484849;
   /* text size */
   --text-xxxlarge: 3.5rem;
   --text-xxlarge: 2.5rem;
@@ -23,7 +23,7 @@
   --width-xsmall: 5rem;
   --width-xxsmall: 2rem;
   --width-xxxsmall: 1rem;
-  --width-xxxxsamll: 0.5rem;
+  --width-xxxxsmall: 0.5rem;
   /* height size*/
   --height-xxxlarge: 100rem;
   --height-xxlarge: 40rem;
@@ -34,7 +34,7 @@
   --height-xsmall: 5rem;
   --height-xxsmall: 3.7rem;
   --height-xxxsmall: 1rem;
-  --height-xxxxsamll: 0.5rem;
+  --height-xxxxsmall: 0.5rem;
   /* border radius */
   --border-radius-xxxlarge: 100rem;
   --border-radius-xxlarge: 40rem;
@@ -45,7 +45,7 @@
   --border-radius-xsmall: 5rem;
   --border-radius-xxsmall: 2rem;
   --border-radius-xxxsmall: 1rem;
-  --border-radius-xxxxsamll: 0.5rem;
+  --border-radius-xxxxsmall: 0.5rem;
   /* border width */
   --border-width-xxxlarge: 100rem;
   --border-width-xxlarge: 40rem;
@@ -56,7 +56,7 @@
   --border-width-xsmall: 5rem;
   --border-width-xxsmall: 2rem;
   --border-width-xxxsmall: 1rem;
-  --border-width-xxxxsamll: 0.5rem;
+  --border-width-xxxxsmall: 0.5rem;
   /* font size */
   --font-size-xxxlarge: 3.5rem;
   --font-size-xxlarge: 2.5rem;
@@ -67,7 +67,7 @@
   --font-size-xsmall: 0.75rem;
   --font-size-xxsmall: 0.625rem;
   --font-size-xxxsmall: 0.5rem;
-  --font-size-xxxxsamll: 0.25rem;
+  --font-size-xxxxsmall: 0.25rem;
   /* font weight */
   --font-weight-xxxlarge: 700;
   --font-weight-xxlarge: 600;
@@ -78,7 +78,7 @@
   --font-weight-xsmall: 100;
   --font-weight-xxsmall: 50;
   --font-weight-xxxsmall: 25;
-  --font-weight-xxxxsamll: 10;
+  --font-weight-xxxxsmall: 10;
   /* padding */
   --padding-xxxlarge: 100rem;
   --padding-xxlarge: 40rem;
@@ -89,7 +89,7 @@
   --padding-xsmall: 5rem;
   --padding-xxsmall: 2rem;
   --padding-xxxsmall: 1rem;
-  --padding-xxxxsamll: 0.5rem;
+  --padding-xxxxsmall: 0.5rem;
 }
 
 html,
