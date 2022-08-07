@@ -1,0 +1,10 @@
+.navigation-global-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--primary-color);
+  padding-left: var(--padding-small);
+  padding-right: var(--padding-small);
+  height: var(--height-xxsmall);
+}

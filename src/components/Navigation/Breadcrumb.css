@@ -1,0 +1,13 @@
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  background-color: #fff;
+  padding-left: var(--padding-small);
+  padding-right: var(--padding-small);
+  filter: drop-shadow(0 4px 3px rgb(0 0 0 / 0.07))
+    drop-shadow(0 2px 2px rgb(0 0 0 / 0.06));
+  align-items: center;
+  font-size: var(--font-size-medium);
+  height: var(--height-xxsmall);
+}
