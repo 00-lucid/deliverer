@@ -1,0 +1,12 @@
+.nonmodal-snackbar {
+  position: fixed;
+  display: flex;
+  width: var(--width-medium);
+  height: var(--height-xxsmall);
+  background-color: var(--background-dark);
+  border-radius: var(--border-radius-xxxxsmall);
+  align-items: center;
+  justify-content: center;
+  right: 1rem;
+  bottom: 1rem;
+}
